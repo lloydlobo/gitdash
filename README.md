@@ -1,8 +1,6 @@
-"# gitdash
+# gitdash
 
 Listing my public repositories to serve as a high-level overview.
-
-"
 
 __name,language,size,license,description__
 * [.dotfiles](https://github.com/lloydlobo/.dotfiles),`Lua`,`33499`,`None`,`My OS config files`
