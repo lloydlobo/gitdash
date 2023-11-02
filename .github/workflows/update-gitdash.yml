@@ -42,12 +42,21 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python main.py
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "lloydlobo4@gmail.com"
-          git config --local user.name "lloydlobo"
-          if ! git diff --exit-code; then
-              git add out.md
-              git commit -am "ci(workflows): emit latest out.md $(date)"
-              git push origin main
-          fi
+      - name: 'Upload Artifact'
+        uses: actions/upload-artifact@v3
+        with:
+          name: updated-out-md-artifact
+          path: out.md
+          # retention-days: 5 # Min 1, Max 90, unless changed from repository settings
+
+      # - name: Commit and push changes
+      #   env:
+      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      #   run: |
+      #     git config --local user.email "actions@github.com"
+      #     git config --local user.name "Github Actions"
+      #     if ! git diff --exit-code; then
+      #         git add out.md
+      #         git commit -am "ci(workflows): emit latest out.md $(date)"
+      #         git push origin main
+      #     fi
