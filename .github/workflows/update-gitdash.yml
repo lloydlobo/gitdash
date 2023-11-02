@@ -47,11 +47,11 @@ jobs:
       - name: Join front-matter with out.md & tee to README.md
         env:
           FRONT_MATTER: |
-            "# gitdash
+            # gitdash
     
             Listing my public repositories to serve as a high-level overview.
             
-            "
+            
         run: |    
           echo "$FRONT_MATTER" > README.md
           cat out.md >> README.md
