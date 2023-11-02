@@ -1,15 +1,17 @@
 name: emit latest gitdash
 
 on:
-  push:
-    branches: ["main"]
   schedule:
     # * is a special character in YAML, so you have to quote this string
     - cron: "30 5,17 * * *" # triggers the workflow every day at 5:30 and 17:30 UTC:
+  push:
+    branches: ["main"]
+    # paths:
+      # - "out.md"
 
-# # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-# permissions:
-#   contents: read
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
 #   pages: write
 #   id-token: write
 
@@ -49,14 +51,15 @@ jobs:
           path: out.md
           # retention-days: 5 # Min 1, Max 90, unless changed from repository settings
 
-      # - name: Commit and push changes
-      #   env:
-      #     GH_TOKEN: ${{ secrets.GH_TOKEN }}
-      #   run: |
-      #     git config --local user.email "actions@github.com"
-      #     git config --local user.name "Github Actions"
-      #     if ! git diff --exit-code; then
-      #         git add out.md
-      #         git commit -am "ci(workflows): emit latest out.md $(date)"
-      #         git push origin main
-      #     fi
+      - name: Commit and push changes
+        # uses: actions/checkout@v4.1.1
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "Github Actions"
+          if ! git diff --exit-code; then
+              git add out.md
+              git commit -am "ci(workflows): emit latest out.md $(date)"
+              git push origin main
+          fi
