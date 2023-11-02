@@ -11,13 +11,21 @@ jobs:
   emit-out-md:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
 
-      - name: Set up Python
-        uses: actions/setup-python@v2
+      - name: Cache Python dependencies
+        uses: actions/cache@v3.3.2
         with:
-          python-version: 3.12  # Set the desired Python version
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Setup Python
+        uses: actions/setup-python@v4.7.1
+        with:
+          python-version: 3.12  # Set the desired Python version (optional)
 
       - name: Install dependencies
         run: pip install -r requirements.txt # Ensure there is requirements.txt with necessary dependencies
@@ -33,5 +41,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
           git add out.md
-          git commit -m "build: emit out.md"
+          git commit -m "build: emit latest out.md"
           git push
