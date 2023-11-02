@@ -1,0 +1,37 @@
+name: emit latest gitdash
+
+on:
+  push:
+    branches: ["main"]
+  schedule:
+    # * is a special character in YAML, so you have to quote this string
+    - cron: "30 5,17 * * *" # triggers the workflow every day at 5:30 and 17:30 UTC:
+
+jobs:
+  emit-out-md:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.12  # Set the desired Python version
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt # Ensure there is requirements.txt with necessary dependencies
+
+      - name: Run Python script to emit out.md
+        env:
+          GH_USERNAME: ${{ secrets.GH_USERNAME }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python gitdash/main.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
+          git add out.md
+          git commit -m "build: emit out.md"
+          git push

@@ -3,10 +3,17 @@ gitdash/main.py
 
 # Pre-requisites
 
-The `GH_TOKEN` is a personal access token that can be generated from the GitHub website.
+This workflow requires two environment variables: `GH_USERNAME` and `GH_TOKEN`.
+They need to be added as Action secrets in 'Security/Secrets and variables/Actions'.
 
-<YOUR_PERSONAL_ACCESS_TOKEN>: minimum requirements — `admin:org`, `admin:public_key`,
-`repo`.
+* `GH_USERNAME` is your GitHub account's username.
+* `GH_TOKEN` is a personal access token that can be generated from the GitHub website.
+
+<GH_TOKEN>: minimum requirements: 
+
+* `admin:org` 
+* `admin:public_key`
+* `repo`.
 
 To generate it, follow these steps:
 
@@ -24,7 +31,7 @@ You will only be able to see the token once. Make sure to save it in a safe plac
 """
 
 import os
-from typing import Any, Iterable, TextIO
+from typing import Any, Iterable
 
 import requests
 from dotenv import load_dotenv  # `python-dotenv`
