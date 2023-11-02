@@ -34,7 +34,7 @@ jobs:
         env:
           GH_USERNAME: ${{ secrets.GH_USERNAME }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python gitdash/main.py
+        run: python main.py
 
       - name: Commit and push changes
         run: |
