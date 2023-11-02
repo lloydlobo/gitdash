@@ -36,10 +36,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python main.py
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "Github Action"
-          git add out.md
-          git commit -m "build: emit latest out.md"
-          git push
+      # - name: Commit and push changes
+      #   run: |
+      #     git config --local user.email "action@github.com"
+      #     git config --local user.name "Github Action"
+      #     git add out.md
+      #     git commit -m "build: emit latest out.md"
+      #     git push
