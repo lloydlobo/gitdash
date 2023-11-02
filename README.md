@@ -1,4 +1,9 @@
-# gitdash Listings of my public repositories to serve as a high-level overview.
+"# gitdash
+
+Listing my public repositories to serve as a high-level overview.
+
+"
+
 __name,language,size,license,description__
 * [.dotfiles](https://github.com/lloydlobo/.dotfiles),`Lua`,`33499`,`None`,`My OS config files`
 * [alacritty](https://github.com/lloydlobo/alacritty),`None`,`11954`,`Apache-2.0`,`A cross-platform, OpenGL terminal emulator.`
