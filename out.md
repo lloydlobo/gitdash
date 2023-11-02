@@ -27,7 +27,7 @@ __name,language,size,license,description__
 * [fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [findigo](https://github.com/lloydlobo/findigo),`None`,`893`,`MIT`,`Starter project that provides you with all the necessary setup to quickly create...`
 * [geomeasure](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
-* [gitdash](https://github.com/lloydlobo/gitdash),`Python`,`15`,`None`,`Personal GitHub repository listing`
+* [gitdash](https://github.com/lloydlobo/gitdash),`Python`,`35`,`None`,`Personal GitHub repository listing`
 * [homely-recipes](https://github.com/lloydlobo/homely-recipes),`HTML`,`16708`,`MIT`,`The site that recommends hand-picked home-made recipes prepared with love and ca...`
 * [infinityper](https://github.com/lloydlobo/infinityper),`Rust`,`70`,`None`,`Simulate typed text in a terminal`
 * [init.lua](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
