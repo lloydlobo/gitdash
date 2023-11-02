@@ -46,9 +46,14 @@ jobs:
 
       - name: Join front-matter with out.md & tee to README.md
         env:
-          FRONT_MATTER: "# gitdash\n\nListings of my public repositories to serve as a high-level overview.\n"
+          FRONT_MATTER: |
+            "# gitdash
+    
+            Listing my public repositories to serve as a high-level overview.
+            
+            "
         run: |    
-          echo $FRONT_MATTER > README.md
+          echo "$FRONT_MATTER" > README.md
           cat out.md >> README.md
 
       # - name: 'Upload Artifact'
