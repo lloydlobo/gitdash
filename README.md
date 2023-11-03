@@ -31,7 +31,9 @@ __name,language,size,license,description__
 * [fem-tip-calculator-app](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [findigo](https://github.com/lloydlobo/findigo),`None`,`893`,`MIT`,`Starter project that provides you with all the necessary setup to quickly create...`
 * [geomeasure](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
-* [gitdash](https://github.com/lloydlobo/gitdash),`Python`,`35`,`None`,`Personal GitHub repository listing`
+* [getting-started-llvm-c-api](https://github.com/lloydlobo/getting-started-llvm-c-api),`None`,`136`,`NOASSERTION`,`Getting started with the LLVM C API`
+* [gitdash](https://github.com/lloydlobo/gitdash),`Python`,`39`,`None`,`Personal GitHub repository listing`
+* [go-htmx-tailwind-example](https://github.com/lloydlobo/go-htmx-tailwind-example),`None`,`158`,`None`,`Example CRUD app written in Go + HTMX + Tailwind CSS`
 * [homely-recipes](https://github.com/lloydlobo/homely-recipes),`HTML`,`16708`,`MIT`,`The site that recommends hand-picked home-made recipes prepared with love and ca...`
 * [infinityper](https://github.com/lloydlobo/infinityper),`Rust`,`70`,`None`,`Simulate typed text in a terminal`
 * [init.lua](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
@@ -42,7 +44,7 @@ __name,language,size,license,description__
 * [lang-uiua](https://github.com/lloydlobo/lang-uiua),`None`,`9`,`None`,`A stack-based array programming language`
 * [libllc](https://github.com/lloydlobo/libllc),`C++`,`2`,`None`,`Helper library for C programming language.`
 * [live-api](https://github.com/lloydlobo/live-api),`TypeScript`,`86`,`None`,`Demo API to host on RapidAPI`
-* [lloydlobo](https://github.com/lloydlobo/lloydlobo),`None`,`46240`,`None`,`Lloyd Lobo's GitHub profile.`
+* [lloydlobo](https://github.com/lloydlobo/lloydlobo),`None`,`46242`,`None`,`Lloyd Lobo's GitHub profile.`
 * [lloydlobo.com](https://github.com/lloydlobo/lloydlobo.com),`TypeScript`,`11803`,`None`,`None`
 * [loremipsum](https://github.com/lloydlobo/loremipsum),`Rust`,`11`,`None`,`None`
 * [lumina-lang](https://github.com/lloydlobo/lumina-lang),`C`,`221`,`None`,`Compiler for Lumina powered by C and Assembly`
