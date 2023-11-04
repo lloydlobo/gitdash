@@ -48,8 +48,8 @@ jobs:
         env:
           FRONT_MATTER: |
             # gitdash
-    
-            Listing my public repositories to serve as a high-level overview.
+            
+            Listing my personal public repositories for a high-level progression overview.
             
             
         run: |    
@@ -72,6 +72,6 @@ jobs:
           git config --local user.name "Github Actions"
           if ! git diff --exit-code; then
               git add out.md README.md
-              git commit -am "ci(workflows): emit latest out.md $(date)"
+              git commit -am "ci(actions): update latest gitdash $(date)"
               git push origin main
           fi

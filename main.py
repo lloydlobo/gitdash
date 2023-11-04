@@ -81,7 +81,7 @@ def fmt_repo(repo: Any, key: str) -> str:
     prop: object = repo[key]
     match key:
         case "name":
-            return f"[{prop}]({repo['html_url']})"
+            return f"[`{prop}`]({repo['html_url']})"
         case "language", "size":
             return f"`{prop}`"
         case "license" if prop:
