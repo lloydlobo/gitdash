@@ -3,7 +3,8 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`72`,`None`,`Personal public GitHub repository listing`
+* [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`4`,`None`,`Game of Life`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`73`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`C`,`2`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
