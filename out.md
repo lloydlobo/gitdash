@@ -1,6 +1,6 @@
 __name,language,size,license,description__
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`95`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`96`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`C`,`2`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -21,10 +21,10 @@ __name,language,size,license,description__
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`canvas-multiplayer`](https://github.com/lloydlobo/canvas-multiplayer),`TypeScript`,`302`,`None`,`canvas-multiplayer`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
-* [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`1800`,`None`,`Wordle for countries but with a twist`
+* [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`1908`,`None`,`Wordle for countries but with a twist`
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-editor`](https://github.com/lloydlobo/markdown-editor),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
-* [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`2989`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
+* [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3027`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
 * [`lloydlobo.com`](https://github.com/lloydlobo/lloydlobo.com),`TypeScript`,`11803`,`None`,`None`
 * [`markovtransition`](https://github.com/lloydlobo/markovtransition),`Rust`,`18473`,`None`,`markov chain for generative text`
 * [`ytscriptrs`](https://github.com/lloydlobo/ytscriptrs),`Python`,`19842`,`None`,`Parse youtube subtitles`
