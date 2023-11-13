@@ -1,6 +1,6 @@
 __name,language,size,license,description__
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`107`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`108`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`C`,`2`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -13,7 +13,7 @@ __name,language,size,license,description__
 * [`lumina-lang`](https://github.com/lloydlobo/lumina-lang),`C`,`221`,`None`,`Compiler for Lumina powered by C and Assembly`
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
 * [`keylogger`](https://github.com/lloydlobo/keylogger),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
-* [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33499`,`None`,`My OS config files`
+* [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
 * [`init.lua`](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
 * [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`388`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
 * [`os`](https://github.com/lloydlobo/os),`Rust`,`25`,`None`,`Writing an OS in Rust`
