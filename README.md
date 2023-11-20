@@ -3,6 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
+* [`SmartCV`](https://github.com/lloydlobo/SmartCV),`Python`,`16`,`AGPL-3.0`,`None`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
 * [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`45`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`C`,`2`,`None`,`None`
