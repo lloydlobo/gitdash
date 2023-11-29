@@ -22,7 +22,7 @@ __name,language,size,license,description__
 * [`init.lua`](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
 * [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`388`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
 * [`os`](https://github.com/lloydlobo/os),`Rust`,`25`,`None`,`Writing an OS in Rust`
-* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`67`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
+* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`77`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`canvas-multiplayer`](https://github.com/lloydlobo/canvas-multiplayer),`TypeScript`,`302`,`None`,`canvas-multiplayer`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
