@@ -3,10 +3,10 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`hash-table`](https://github.com/lloydlobo/hash-table),`C++`,`1`,`None`,`Custom hash table implementations`
+* [`hash-table`](https://github.com/lloydlobo/hash-table),`C++`,`2`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`98`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`104`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`C`,`2`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -21,13 +21,13 @@ __name,language,size,license,description__
 * [`keylogger`](https://github.com/lloydlobo/keylogger),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
 * [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
 * [`init.lua`](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
-* [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`388`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
+* [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`436`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
 * [`os`](https://github.com/lloydlobo/os),`Rust`,`25`,`None`,`Writing an OS in Rust`
 * [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`77`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`canvas-multiplayer`](https://github.com/lloydlobo/canvas-multiplayer),`TypeScript`,`302`,`None`,`canvas-multiplayer`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
-* [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`1908`,`None`,`Wordle for countries but with a twist`
+* [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`2014`,`None`,`Wordle for countries but with a twist`
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-editor`](https://github.com/lloydlobo/markdown-editor),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
 * [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3027`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
