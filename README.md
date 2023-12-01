@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`hash-table`](https://github.com/lloydlobo/hash-table),`C++`,`2`,`None`,`Custom hash table implementations`
+* [`hash-table`](https://github.com/lloydlobo/hash-table),`C++`,`6`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
 * [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`104`,`None`,`Personal public GitHub repository listing`
