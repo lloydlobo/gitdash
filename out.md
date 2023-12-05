@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`11`,`None`,`Custom hash table implementations`
+* [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
 * [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`122`,`None`,`Personal public GitHub repository listing`
@@ -27,7 +27,7 @@ __name,language,size,license,description__
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-editor`](https://github.com/lloydlobo/markdown-editor),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
 * [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3027`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
-* [`lloydlobo.com`](https://github.com/lloydlobo/lloydlobo.com),`TypeScript`,`11803`,`None`,`None`
+* [`lloydlobo.com`](https://github.com/lloydlobo/lloydlobo.com),`TypeScript`,`11865`,`None`,`None`
 * [`markovtransition`](https://github.com/lloydlobo/markovtransition),`Rust`,`18473`,`None`,`markov chain for generative text`
 * [`ytscriptrs`](https://github.com/lloydlobo/ytscriptrs),`Python`,`19842`,`None`,`Parse youtube subtitles`
 * [`penny`](https://github.com/lloydlobo/penny),`Python`,`78`,`None`,`A no-nonsense budget tracking Discord bot`
