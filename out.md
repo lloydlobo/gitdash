@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`aoc-2023`](https://github.com/lloydlobo/aoc-2023),`Python`,`83`,`None`,`Advent of Code 2023 Edition`
+* [`aoc-2023`](https://github.com/lloydlobo/aoc-2023),`Python`,`89`,`None`,`Advent of Code 2023 Edition`
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
