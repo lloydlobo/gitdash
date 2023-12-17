@@ -3,8 +3,8 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`63`,`None`,`Personal public GitHub repository listing`
-* [`backtracc`](https://github.com/lloydlobo/backtracc),`C`,`2`,`None`,`None`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`64`,`None`,`Personal public GitHub repository listing`
+* [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`2`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
 * [`libllc`](https://github.com/lloydlobo/libllc),`C++`,`2`,`None`,`Helper library for C programming language.`
