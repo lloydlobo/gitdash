@@ -1,9 +1,9 @@
 __name,language,size,license,description__
-* [`aoc-2023`](https://github.com/lloydlobo/aoc-2023),`Python`,`100`,`None`,`Advent of Code 2023 Edition`
+* [`aoc-2023`](https://github.com/lloydlobo/aoc-2023),`Python`,`103`,`None`,`Advent of Code 2023 Edition`
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`88`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`94`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -34,7 +34,7 @@ __name,language,size,license,description__
 * [`penny`](https://github.com/lloydlobo/penny),`Python`,`78`,`None`,`A no-nonsense budget tracking Discord bot`
 * [`mandelbrot`](https://github.com/lloydlobo/mandelbrot),`Rust`,`189`,`None`,`The Mandelbrot set is a beautiful and fascinating mathematical object that has c...`
 * [`wavefncollapse`](https://github.com/lloydlobo/wavefncollapse),`Rust`,`79764`,`None`,`wavefncollapse`
-* [`balance`](https://github.com/lloydlobo/balance),`Rust`,`75`,`Apache-2.0`,`CLI tool to balance your budget`
+* [`balance`](https://github.com/lloydlobo/balance),`Rust`,`85`,`Apache-2.0`,`CLI tool to balance your budget`
 * [`mausam`](https://github.com/lloydlobo/mausam),`Rust`,`1704`,`Apache-2.0`,`A weather update desktop notifier made with Rust.`
 * [`rssh`](https://github.com/lloydlobo/rssh),`Rust`,`5289`,`None`,`rssh or Rust Shell allows keeping maintainable bash aliases from within Rust`
 * [`infinityper`](https://github.com/lloydlobo/infinityper),`Rust`,`70`,`None`,`Simulate typed text in a terminal`
