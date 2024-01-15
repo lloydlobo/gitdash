@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`flow-field-canvas`](https://github.com/lloydlobo/flow-field-canvas),`JavaScript`,`32`,`None`,`Simulate behavior of a particle inside flow fields`
+* [`flow-field-canvas`](https://github.com/lloydlobo/flow-field-canvas),`JavaScript`,`44`,`None`,`Simulate behavior of a particle inside flow fields`
 * [`flowpyfield`](https://github.com/lloydlobo/flowpyfield),`Python`,`549`,`None`,`Exploring flow fields`
 * [`aoc-2023`](https://github.com/lloydlobo/aoc-2023),`Python`,`120`,`None`,`Advent of Code 2023 Edition`
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
