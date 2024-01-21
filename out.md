@@ -1,4 +1,5 @@
 __name,language,size,license,description__
+* [`Lazylinks`](https://github.com/lloydlobo/Lazylinks),`Python`,`27`,`None`,`Desktop GUI to quickly jump to most visited website links`
 * [`flow-field-canvas`](https://github.com/lloydlobo/flow-field-canvas),`JavaScript`,`70`,`None`,`Simulate behavior of a particle inside flow fields`
 * [`flowpyfield`](https://github.com/lloydlobo/flowpyfield),`Python`,`549`,`None`,`Exploring flow fields`
 * [`aoc-2023`](https://github.com/lloydlobo/aoc-2023),`Python`,`120`,`None`,`Advent of Code 2023 Edition`
