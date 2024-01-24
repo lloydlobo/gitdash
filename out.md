@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`headcount`](https://github.com/lloydlobo/headcount),`Python`,`492`,`None`,`A HTMX + Python Flask demo for live attendance management`
+* [`headcount`](https://github.com/lloydlobo/headcount),`Python`,`763`,`None`,`A HTMX + Python Flask demo for live attendance management`
 * [`Lazylinks`](https://github.com/lloydlobo/Lazylinks),`Python`,`27`,`None`,`Desktop GUI to quickly jump to most visited website links`
 * [`flow-field-canvas`](https://github.com/lloydlobo/flow-field-canvas),`JavaScript`,`70`,`None`,`Simulate behavior of a particle inside flow fields`
 * [`flowpyfield`](https://github.com/lloydlobo/flowpyfield),`Python`,`549`,`None`,`Exploring flow fields`
@@ -7,7 +7,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`101`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`107`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
