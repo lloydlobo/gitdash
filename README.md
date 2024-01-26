@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`headcount`](https://github.com/lloydlobo/headcount),`HTML`,`770`,`None`,`A HTMX + Python Flask demo for live attendance management`
+* [`headcount`](https://github.com/lloydlobo/headcount),`HTML`,`769`,`None`,`A HTMX + Python Flask demo for live attendance management`
 * [`Lazylinks`](https://github.com/lloydlobo/Lazylinks),`Python`,`27`,`None`,`Desktop GUI to quickly jump to most visited website links`
 * [`flow-field-canvas`](https://github.com/lloydlobo/flow-field-canvas),`JavaScript`,`70`,`None`,`Simulate behavior of a particle inside flow fields`
 * [`flowpyfield`](https://github.com/lloydlobo/flowpyfield),`Python`,`549`,`None`,`Exploring flow fields`
