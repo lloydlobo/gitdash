@@ -29,7 +29,7 @@ __name,language,size,license,description__
 * [`init.lua`](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
 * [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`436`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
 * [`os`](https://github.com/lloydlobo/os),`Rust`,`25`,`None`,`Writing an OS in Rust`
-* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`89`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
+* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`99`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`canvas-multiplayer`](https://github.com/lloydlobo/canvas-multiplayer),`TypeScript`,`302`,`None`,`canvas-multiplayer`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
@@ -69,4 +69,4 @@ __name,language,size,license,description__
 * [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46287`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46290`,`None`,`Lloyd Lobo's GitHub profile.`
