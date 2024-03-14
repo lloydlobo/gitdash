@@ -71,6 +71,7 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "Github Actions"
           if ! git diff --exit-code; then
+              git pull
               git add out.md README.md
               git commit -am "ci(actions): update latest gitdash $(date)"
               git push origin main
