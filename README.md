@@ -65,9 +65,9 @@ __name,language,size,license,description__
 * [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`976`,`MIT`,`Sketch and etch your unique pixel art idea`
 * [`geomeasure`](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
 * [`odin-rock-paper-scissors`](https://github.com/lloydlobo/odin-rock-paper-scissors),`HTML`,`2034`,`MIT`,`A simple implementation of grade-school classic “rock paper scissors” for The Od...`
-* [`homely-recipes`](https://github.com/lloydlobo/homely-recipes),`HTML`,`16574`,`MIT`,`The site that recommends hand-picked home-made recipes prepared with love and ca...`
+* [`homely-recipes`](https://github.com/lloydlobo/homely-recipes),`HTML`,`16791`,`MIT`,`The site that recommends hand-picked home-made recipes prepared with love and ca...`
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46312`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46314`,`None`,`Lloyd Lobo's GitHub profile.`
