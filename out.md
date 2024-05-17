@@ -1,7 +1,7 @@
 __name,language,size,license,description__
 * [`links`](https://github.com/lloydlobo/links),`None`,`4`,`None`,`None`
 * [`go-headcount`](https://github.com/lloydlobo/go-headcount),`Go`,`10572`,`None`,`A HTMX + Go demo for live attendance management`
-* [`py-headcount`](https://github.com/lloydlobo/py-headcount),`HTML`,`770`,`None`,`A HTMX + Python Flask demo for live attendance management`
+* [`py-headcount`](https://github.com/lloydlobo/py-headcount),`HTML`,`773`,`None`,`A HTMX + Python Flask demo for live attendance management`
 * [`Lazylinks`](https://github.com/lloydlobo/Lazylinks),`Python`,`27`,`None`,`Desktop GUI to quickly jump to most visited website links`
 * [`flow-field-canvas`](https://github.com/lloydlobo/flow-field-canvas),`JavaScript`,`70`,`None`,`Simulate behavior of a particle inside flow fields`
 * [`flowpyfield`](https://github.com/lloydlobo/flowpyfield),`Python`,`549`,`None`,`Exploring flow fields`
@@ -66,4 +66,4 @@ __name,language,size,license,description__
 * [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46366`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46394`,`None`,`Lloyd Lobo's GitHub profile.`
