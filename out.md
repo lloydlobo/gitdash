@@ -21,7 +21,7 @@ __name,language,size,license,description__
 * [`mandelbrot-c`](https://github.com/lloydlobo/mandelbrot-c),`C`,`43`,`None`,`mandlebrot set image generator in C`
 * [`lumina-lang`](https://github.com/lloydlobo/lumina-lang),`C`,`221`,`None`,`Compiler for Lumina powered by C and Assembly`
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
-* [`keylogger`](https://github.com/lloydlobo/keylogger),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
+* [`keystoke-statusbar`](https://github.com/lloydlobo/keystoke-statusbar),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
 * [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
 * [`init.lua`](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
 * [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`436`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
@@ -66,4 +66,4 @@ __name,language,size,license,description__
 * [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46396`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46399`,`None`,`Lloyd Lobo's GitHub profile.`
