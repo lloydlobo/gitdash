@@ -13,7 +13,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`254`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`260`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -65,7 +65,7 @@ __name,language,size,license,description__
 * [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`976`,`MIT`,`Sketch and etch your unique pixel art idea`
 * [`geomeasure`](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
 * [`odin-rock-paper-scissors`](https://github.com/lloydlobo/odin-rock-paper-scissors),`HTML`,`2034`,`MIT`,`A simple implementation of grade-school classic “rock paper scissors” for The Od...`
-* [`homely-recipes`](https://github.com/lloydlobo/homely-recipes),`HTML`,`17863`,`MIT`,`The site that recommends hand-picked home-made recipes prepared with love and ca...`
+* [`homely-recipes`](https://github.com/lloydlobo/homely-recipes),`HTML`,`17857`,`MIT`,`The site that recommends hand-picked home-made recipes prepared with love and ca...`
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
