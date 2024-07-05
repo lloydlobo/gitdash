@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`memhold`](https://github.com/lloydlobo/memhold),`C`,`35`,`None`,`Simple timeouts for processes that hog memory`
+* [`memhold`](https://github.com/lloydlobo/memhold),`C`,`38`,`None`,`Simple timeouts for processes that hog memory`
 * [`tinylib_lua`](https://github.com/lloydlobo/tinylib_lua),`Lua`,`10`,`None`,`Personal Lua library inspired by C stb single file header library`
 * [`links`](https://github.com/lloydlobo/links),`None`,`4`,`None`,`None`
 * [`go-headcount`](https://github.com/lloydlobo/go-headcount),`Go`,`10572`,`None`,`A HTMX + Go demo for live attendance management`
@@ -11,7 +11,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`313`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`314`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -67,4 +67,4 @@ __name,language,size,license,description__
 * [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46437`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46440`,`None`,`Lloyd Lobo's GitHub profile.`
