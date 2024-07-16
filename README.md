@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`fprintfasm`](https://github.com/lloydlobo/fprintfasm),`Assembly`,`9`,`MIT`,` Simple assembly kickstarter example for standard output `printf` via builtin `s...`
+* [`fprintfasm`](https://github.com/lloydlobo/fprintfasm),`Assembly`,`12`,`MIT`,` Simple assembly kickstarter example for standard output `printf` via builtin `s...`
 * [`memhold`](https://github.com/lloydlobo/memhold),`C`,`87`,`None`,`Simple timeouts for processes that hog memory`
 * [`tinylib_lua`](https://github.com/lloydlobo/tinylib_lua),`Lua`,`10`,`None`,`Personal Lua library inspired by C stb single file header library`
 * [`links`](https://github.com/lloydlobo/links),`None`,`4`,`None`,`None`
