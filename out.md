@@ -11,7 +11,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`241`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`247`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -28,7 +28,7 @@ __name,language,size,license,description__
 * [`init.lua`](https://github.com/lloydlobo/init.lua),`Lua`,`65`,`None`,`neovim configuration`
 * [`wallet`](https://github.com/lloydlobo/wallet),`TypeScript`,`436`,`None`,`Wallet is for anyoune who wants to track their expenses and stay on budget`
 * [`os`](https://github.com/lloydlobo/os),`Rust`,`25`,`None`,`Writing an OS in Rust`
-* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`122`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
+* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`121`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`canvas-multiplayer`](https://github.com/lloydlobo/canvas-multiplayer),`TypeScript`,`302`,`None`,`canvas-multiplayer`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
@@ -36,7 +36,6 @@ __name,language,size,license,description__
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-editor`](https://github.com/lloydlobo/markdown-editor),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
 * [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3027`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
-* [`lloydlobo.com`](https://github.com/lloydlobo/lloydlobo.com),`TypeScript`,`11865`,`None`,`None`
 * [`markovtransition`](https://github.com/lloydlobo/markovtransition),`Rust`,`18473`,`None`,`markov chain for generative text`
 * [`ytscriptrs`](https://github.com/lloydlobo/ytscriptrs),`Python`,`19842`,`None`,`Parse youtube subtitles`
 * [`penny`](https://github.com/lloydlobo/penny),`Python`,`78`,`None`,`A no-nonsense budget tracking Discord bot`
@@ -62,9 +61,7 @@ __name,language,size,license,description__
 * [`calcy`](https://github.com/lloydlobo/calcy),`Svelte`,`1051`,`None`,`A calculator app for The Odin Project`
 * [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`976`,`MIT`,`Sketch and etch your unique pixel art idea`
 * [`geomeasure`](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
-* [`odin-rock-paper-scissors`](https://github.com/lloydlobo/odin-rock-paper-scissors),`HTML`,`2034`,`MIT`,`A simple implementation of grade-school classic “rock paper scissors” for The Od...`
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
-* [`odin-thors-landing`](https://github.com/lloydlobo/odin-thors-landing),`CSS`,`350`,`MIT`,`Like Thor's mighty hammer, wield the power of security for your crypto needs. Ba...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46468`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46470`,`None`,`Lloyd Lobo's GitHub profile.`
