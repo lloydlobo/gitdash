@@ -10,7 +10,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`281`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`286`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -23,7 +23,7 @@ __name,language,size,license,description__
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
 * [`keystoke-statusbar`](https://github.com/lloydlobo/keystoke-statusbar),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
 * [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
-* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`132`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
+* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`131`,`None`,`Group toggle multiple git repository visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
 * [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`2014`,`None`,`Wordle for countries but with a twist`
