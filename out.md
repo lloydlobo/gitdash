@@ -23,7 +23,7 @@ __name,language,size,license,description__
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
 * [`keystoke-statusbar`](https://github.com/lloydlobo/keystoke-statusbar),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
 * [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
-* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`121`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
+* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`132`,`None`,`Toggle multiple git repository's visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
 * [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`2014`,`None`,`Wordle for countries but with a twist`
@@ -38,7 +38,7 @@ __name,language,size,license,description__
 * [`rssh`](https://github.com/lloydlobo/rssh),`Rust`,`5289`,`None`,`rssh or Rust Shell allows keeping maintainable bash aliases from within Rust`
 * [`infinityper`](https://github.com/lloydlobo/infinityper),`Rust`,`70`,`None`,`Simulate typed text in a terminal`
 * [`loremipsum`](https://github.com/lloydlobo/loremipsum),`Rust`,`11`,`None`,`None`
-* [`dio`](https://github.com/lloydlobo/dio),`Rust`,`148`,`None`,`None`
+* [`dio`](https://github.com/lloydlobo/dio),`Rust`,`264`,`None`,`None`
 * [`course-cs50`](https://github.com/lloydlobo/course-cs50),`C`,`10550`,`None`,`CS50 Course Harvard`
 * [`okejoke`](https://github.com/lloydlobo/okejoke),`Go`,`6159`,`MIT`,`okejoke gathers jokes on the fly in your CLI.`
 * [`leetcode`](https://github.com/lloydlobo/leetcode),`Go`,`5141`,`None`,`solutions and reference to solve common coding leetcode problems`
@@ -50,4 +50,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46415`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46418`,`None`,`Lloyd Lobo's GitHub profile.`
