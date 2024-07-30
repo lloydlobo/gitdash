@@ -19,7 +19,6 @@ __name,language,size,license,description__
 * [`lang-sql`](https://github.com/lloydlobo/lang-sql),`None`,`47`,`None`,`None`
 * [`lang-uiua`](https://github.com/lloydlobo/lang-uiua),`None`,`9`,`None`,`A stack-based array programming language`
 * [`mandelbrot-c`](https://github.com/lloydlobo/mandelbrot-c),`C`,`43`,`None`,`mandlebrot set image generator in C`
-* [`lumina-lang`](https://github.com/lloydlobo/lumina-lang),`C`,`221`,`None`,`Compiler for Lumina powered by C and Assembly`
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
 * [`keystoke-statusbar`](https://github.com/lloydlobo/keystoke-statusbar),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
 * [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
@@ -50,4 +49,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46432`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46434`,`None`,`Lloyd Lobo's GitHub profile.`
