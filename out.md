@@ -11,7 +11,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`267`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`272`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -41,7 +41,7 @@ __name,language,size,license,description__
 * [`dio`](https://github.com/lloydlobo/dio),`Rust`,`264`,`None`,`None`
 * [`course-cs50`](https://github.com/lloydlobo/course-cs50),`C`,`10550`,`None`,`CS50 Course Harvard`
 * [`okejoke`](https://github.com/lloydlobo/okejoke),`Go`,`6159`,`MIT`,`okejoke gathers jokes on the fly in your CLI.`
-* [`leetcode`](https://github.com/lloydlobo/leetcode),`C++`,`5208`,`None`,`solutions and reference to solve common coding leetcode problems`
+* [`leetcode`](https://github.com/lloydlobo/leetcode),`Go`,`5212`,`None`,`solutions and reference to solve common coding leetcode problems`
 * [`config`](https://github.com/lloydlobo/config),`Lua`,`877`,`None`,`dotfiles`
 * [`extensions`](https://github.com/lloydlobo/extensions),`JavaScript`,`167`,`None`,`None`
 * [`neura-driver`](https://github.com/lloydlobo/neura-driver),`TypeScript`,`115`,`None`,`A simple self-driving car application with a neural network model.`
