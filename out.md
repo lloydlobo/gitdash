@@ -3,7 +3,7 @@ __name,language,size,license,description__
 * [`memhold`](https://github.com/lloydlobo/memhold),`C`,`87`,`None`,`Simple timeouts for processes that hog memory`
 * [`tiptoe`](https://github.com/lloydlobo/tiptoe),`Python`,`253191`,`None`,`Without a weapon, can the protagonist sneak sleepy guardians in this 2D platform...`
 * [`links`](https://github.com/lloydlobo/links),`None`,`4`,`None`,`None`
-* [`headcountlive`](https://github.com/lloydlobo/headcountlive),`Go`,`10572`,`None`,`A HTMX + Go demo for live attendance management`
+* [`headcountlive`](https://github.com/lloydlobo/headcountlive),`Go`,`10572`,`None`,`A live attendance management web application powered by HTMX and Go.`
 * [`Lazylinks`](https://github.com/lloydlobo/Lazylinks),`Python`,`27`,`None`,`Desktop GUI to quickly jump to most visited website links`
 * [`flowfield-simulator`](https://github.com/lloydlobo/flowfield-simulator),`JavaScript`,`70`,`None`,`Simulate behavior of a particle inside flow fields`
 * [`flowpyfield`](https://github.com/lloydlobo/flowpyfield),`Python`,`549`,`None`,`Exploring flow fields`
@@ -11,7 +11,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`295`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`300`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
