@@ -48,9 +48,9 @@ __name,language,size,license,description__
 * [`config`](https://github.com/lloydlobo/config),`Lua`,`877`,`None`,`dotfiles`
 * [`extensions`](https://github.com/lloydlobo/extensions),`JavaScript`,`167`,`None`,`None`
 * [`neura-driver`](https://github.com/lloydlobo/neura-driver),`TypeScript`,`115`,`None`,`A simple self-driving car application with a neural network model.`
-* [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`976`,`MIT`,`Sketch and etch your unique pixel art idea`
+* [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`1325`,`MIT`,`Sketch and etch your unique pixel art idea`
 * [`geomeasure`](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46536`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46539`,`None`,`Lloyd Lobo's GitHub profile.`
