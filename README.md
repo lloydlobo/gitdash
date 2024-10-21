@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`neovim-plugin-starter`](https://github.com/lloydlobo/neovim-plugin-starter),`Lua`,`3`,`None`,`make a nvim plugin for lazy and packer users to use`
+* [`neovim-plugin-starter`](https://github.com/lloydlobo/neovim-plugin-starter),`Lua`,`3`,`None`,`[WIP] make a nvim plugin for lazy and packer users`
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`49865`,`MIT`,`A [WIP] game experiment for Ludum Dare 56's `Tiny creatures` theme.`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
 * [`fprintfasm`](https://github.com/lloydlobo/fprintfasm),`Assembly`,`12`,`MIT`,` Simple assembly kickstarter example for standard output `printf` via builtin `s...`
@@ -59,4 +59,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46558`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46560`,`None`,`Lloyd Lobo's GitHub profile.`
