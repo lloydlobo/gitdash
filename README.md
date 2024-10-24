@@ -3,8 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`neovim-plugin-starter`](https://github.com/lloydlobo/neovim-plugin-starter),`Lua`,`3`,`None`,`[WIP] make a nvim plugin for lazy and packer users`
-* [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`74247`,`MIT`,`A [WIP] game experiment for Ludum Dare 56's `Tiny creatures` theme.`
+* [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`74308`,`MIT`,`A [WIP] game experiment for Ludum Dare 56's `Tiny creatures` theme.`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
 * [`fprintfasm`](https://github.com/lloydlobo/fprintfasm),`Assembly`,`12`,`MIT`,` Simple assembly kickstarter example for standard output `printf` via builtin `s...`
 * [`memhold`](https://github.com/lloydlobo/memhold),`C`,`87`,`None`,`Simple timeouts for processes that hog memory`
@@ -20,7 +19,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`277`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`278`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -59,4 +58,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46565`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46567`,`None`,`Lloyd Lobo's GitHub profile.`
