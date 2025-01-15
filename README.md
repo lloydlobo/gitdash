@@ -3,12 +3,10 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`ezimg`](https://github.com/lloydlobo/ezimg),`Go`,`838`,`None`,`Basic image processing tool for the web`
 * [`hexed`](https://github.com/lloydlobo/hexed),`HTML`,`721`,`None`,`Tiny hexdump tool for the web`
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`230508`,`MIT`,`Top-down arcade made for the 72 hours Ludum Dare 56's `Tiny creatures` theme gam...`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
 * [`fprintfasm`](https://github.com/lloydlobo/fprintfasm),`Assembly`,`12`,`MIT`,` Simple assembly kickstarter example for standard output `printf` via builtin `s...`
-* [`memhold`](https://github.com/lloydlobo/memhold),`C`,`87`,`None`,`Simple timeouts for processes that hog memory`
 * [`tiptoe`](https://github.com/lloydlobo/tiptoe),`Python`,`253191`,`None`,`Sneakily collect sleepy guardians in this 2D-platformer game.`
 * [`links`](https://github.com/lloydlobo/links),`None`,`4`,`None`,`None`
 * [`lang-asm`](https://github.com/lloydlobo/lang-asm),`Assembly`,`303`,`None`,`Scratchpad for x86-64 assembly`
@@ -43,12 +41,10 @@ __name,language,size,license,description__
 * [`markovtransition`](https://github.com/lloydlobo/markovtransition),`Rust`,`18473`,`None`,`markov chain for generative text`
 * [`penny`](https://github.com/lloydlobo/penny),`Python`,`78`,`None`,`A no-nonsense budget tracking Discord bot`
 * [`mandelbrot`](https://github.com/lloydlobo/mandelbrot),`Rust`,`189`,`None`,`The Mandelbrot set is a beautiful and fascinating mathematical object that has c...`
-* [`balance`](https://github.com/lloydlobo/balance),`Rust`,`86`,`Apache-2.0`,`CLI tool to balance your budget`
 * [`mausam`](https://github.com/lloydlobo/mausam),`Rust`,`1704`,`Apache-2.0`,`A weather update desktop notifier made with Rust.`
 * [`rssh`](https://github.com/lloydlobo/rssh),`Rust`,`5289`,`None`,`rssh or Rust Shell allows keeping maintainable bash aliases from within Rust`
 * [`infinityper`](https://github.com/lloydlobo/infinityper),`Rust`,`70`,`None`,`Simulate typed text in a terminal`
 * [`loremipsum`](https://github.com/lloydlobo/loremipsum),`Rust`,`11`,`None`,`None`
-* [`dio`](https://github.com/lloydlobo/dio),`Rust`,`264`,`None`,`None`
 * [`course-cs50`](https://github.com/lloydlobo/course-cs50),`C`,`10550`,`None`,`CS50 Course Harvard`
 * [`okejoke`](https://github.com/lloydlobo/okejoke),`Go`,`6159`,`MIT`,`okejoke gathers jokes on the fly in your CLI.`
 * [`leetcode`](https://github.com/lloydlobo/leetcode),`Go`,`5212`,`None`,`solutions and reference to solve common coding leetcode problems`
@@ -60,4 +56,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46625`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46627`,`None`,`Lloyd Lobo's GitHub profile.`
