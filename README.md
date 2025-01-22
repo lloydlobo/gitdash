@@ -19,7 +19,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`395`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`396`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
@@ -51,7 +51,7 @@ __name,language,size,license,description__
 * [`config`](https://github.com/lloydlobo/config),`Lua`,`877`,`None`,`dotfiles`
 * [`extensions`](https://github.com/lloydlobo/extensions),`JavaScript`,`167`,`None`,`None`
 * [`neura-driver`](https://github.com/lloydlobo/neura-driver),`TypeScript`,`115`,`None`,`A simple self-driving car application with a neural network model.`
-* [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`586`,`MIT`,`Sketch and etch your unique pixel art idea`
+* [`etcher-sketcher`](https://github.com/lloydlobo/etcher-sketcher),`TypeScript`,`704`,`MIT`,`Sketch and etch your unique pixel art idea`
 * [`geomeasure`](https://github.com/lloydlobo/geomeasure),`HTML`,`1689`,`MIT`,`Geomeasure measures distance using GPS and that too without without any API!`
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
