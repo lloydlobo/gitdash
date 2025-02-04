@@ -31,7 +31,7 @@ __name,language,size,license,description__
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
 * [`keystoke-statusbar`](https://github.com/lloydlobo/keystoke-statusbar),`Python`,`54`,`None`,`Print your keyboard keystrokes to stdout or display them in your status bar.`
 * [`.dotfiles`](https://github.com/lloydlobo/.dotfiles),`Lua`,`33503`,`None`,`My OS config files`
-* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`131`,`None`,`Group toggle multiple git repository visibility interactively from your terminal`
+* [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`142`,`None`,`Group toggle multiple git repository visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
 * [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`895`,`None`,`Wordle for countries but with a twist`
@@ -56,4 +56,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46668`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46671`,`None`,`Lloyd Lobo's GitHub profile.`
