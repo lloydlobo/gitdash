@@ -25,7 +25,7 @@ __name,language,size,license,description__
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
 * [`syntaxflowc`](https://github.com/lloydlobo/syntaxflowc),`C`,`2`,`None`,`None`
 * [`tripc`](https://github.com/lloydlobo/tripc),`C`,`3`,`None`,`None`
-* [`lang-sql`](https://github.com/lloydlobo/lang-sql),`None`,`47`,`None`,`None`
+* [`lang-sql`](https://github.com/lloydlobo/lang-sql),`None`,`50`,`None`,`None`
 * [`lang-uiua`](https://github.com/lloydlobo/lang-uiua),`None`,`9`,`None`,`A stack-based array programming language`
 * [`mandelbrot-c`](https://github.com/lloydlobo/mandelbrot-c),`C`,`43`,`None`,`mandlebrot set image generator in C`
 * [`compiler-cpp`](https://github.com/lloydlobo/compiler-cpp),`C++`,`19`,`None`,`Compiler for IO, a hobby programming language`
@@ -56,4 +56,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46629`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46632`,`None`,`Lloyd Lobo's GitHub profile.`
