@@ -31,7 +31,7 @@ __name,language,size,license,description__
 * [`privateer`](https://github.com/lloydlobo/privateer),`Rust`,`142`,`None`,`Group toggle multiple git repository visibility interactively from your terminal`
 * [`tidyup`](https://github.com/lloydlobo/tidyup),`Rust`,`26`,`None`,`Tidy up your your unorganized folders`
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
-* [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`895`,`None`,`Wordle for countries but with a twist`
+* [`explorer`](https://github.com/lloydlobo/explorer),`TypeScript`,`1012`,`None`,`Wordle for countries but with a twist`
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-previewer`](https://github.com/lloydlobo/markdown-previewer),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
 * [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3027`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
@@ -53,4 +53,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46768`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46770`,`None`,`Lloyd Lobo's GitHub profile.`
