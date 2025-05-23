@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`depths`](https://github.com/lloydlobo/depths),`Go`,`129981`,`None`,`Ludum Dare 57 Theme: Depths`
+* [`depths`](https://github.com/lloydlobo/depths),`Go`,`129988`,`None`,`Ludum Dare 57 Theme: Depths`
 * [`hexed`](https://github.com/lloydlobo/hexed),`HTML`,`721`,`None`,`Tiny hexdump tool for the web`
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`230508`,`MIT`,`Top-down arcade made for the 72 hours Ludum Dare 56's `Tiny creatures` theme gam...`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
@@ -57,4 +57,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46781`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46784`,`None`,`Lloyd Lobo's GitHub profile.`
