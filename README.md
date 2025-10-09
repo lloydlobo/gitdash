@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`python-notebooks`](https://github.com/lloydlobo/python-notebooks),`Python`,`0`,`None`,`Python literate-like programming notebooks with Marimo`
+* [`python-notebooks`](https://github.com/lloydlobo/python-notebooks),`Python`,`10882`,`None`,`Python literate-like programming notebooks with Marimo`
 * [`depths`](https://github.com/lloydlobo/depths),`Go`,`129999`,`None`,`Ludum Dare 57 Theme: Depths`
 * [`hexed`](https://github.com/lloydlobo/hexed),`HTML`,`721`,`None`,`Tiny hexdump tool for the web`
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`230508`,`MIT`,`Top-down arcade made for the 72 hours Ludum Dare 56's `Tiny creatures` theme gam...`
@@ -38,7 +38,7 @@ __name,language,size,license,description__
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-previewer`](https://github.com/lloydlobo/markdown-previewer),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
-* [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3030`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
+* [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`2990`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
 * [`markovtransition`](https://github.com/lloydlobo/markovtransition),`Rust`,`18473`,`None`,`markov chain for generative text`
 * [`penny`](https://github.com/lloydlobo/penny),`Python`,`78`,`None`,`A no-nonsense budget tracking Discord bot`
 * [`mandelbrot`](https://github.com/lloydlobo/mandelbrot),`Rust`,`189`,`None`,`The Mandelbrot set is a beautiful and fascinating mathematical object that has c...`
