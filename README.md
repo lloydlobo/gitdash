@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`BFInterpreter`](https://github.com/lloydlobo/BFInterpreter),`F#`,`1`,`None`,`A simple BF interpreter in F#`
+* [`BFInterpreter`](https://github.com/lloydlobo/BFInterpreter),`F#`,`3`,`None`,`A simple BF interpreter in F#`
 * [`ChordParser`](https://github.com/lloydlobo/ChordParser),`F#`,`30`,`None`,` Parses and transposes a chord chart. (adapted from @JordanMarr)`
 * [`blender-room-portfolio`](https://github.com/lloydlobo/blender-room-portfolio),`Python`,`29813`,`None`,`blender files for threejs compatible interactive 3d scene (work in progress ^_^)...`
 * [`dotfile-nvim`](https://github.com/lloydlobo/dotfile-nvim),`Lua`,`561`,`None`,`basic neovim config`
@@ -62,4 +62,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46906`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46908`,`None`,`Lloyd Lobo's GitHub profile.`
