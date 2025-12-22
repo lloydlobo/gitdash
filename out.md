@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`countdown`](https://github.com/lloydlobo/countdown),`TypeScript`,`143`,`None`,`assortment of countdown timers`
+* [`countdown`](https://github.com/lloydlobo/countdown),`TypeScript`,`159`,`None`,`assortment of countdown timers`
 * [`memegen`](https://github.com/lloydlobo/memegen),`TypeScript`,`1834`,`None`,`A quick meme generator `
 * [`r3f-webgpu-baked-example`](https://github.com/lloydlobo/r3f-webgpu-baked-example),`JavaScript`,`9209`,`MIT`,`Modified from https://github.com/wass08/r3f-webgpu-starter. See also https://www...`
 * [`BFInterpreter`](https://github.com/lloydlobo/BFInterpreter),`F#`,`739`,`None`,`A simple BF interpreter in F#`
@@ -25,7 +25,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`556`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`562`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
