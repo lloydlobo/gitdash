@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`715`,`None`,`R3F Axe Throwing Mini Game Demo`
+* [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`1255`,`None`,`R3F Axe Throwing Mini Game Demo`
 * [`r3f-tshirt-configurator`](https://github.com/lloydlobo/r3f-tshirt-configurator),`TypeScript`,`1029`,`None`,`Clone of react-three-fiber demo`
 * [`lloydlobo.github.io`](https://github.com/lloydlobo/lloydlobo.github.io),`Astro`,`5364`,`None`,`Powered by Astro`
 * [`countdown`](https://github.com/lloydlobo/countdown),`TypeScript`,`1470`,`None`,`assortment of countdown timers`
