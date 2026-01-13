@@ -2,17 +2,17 @@ __name,language,size,license,description__
 * [`continuum`](https://github.com/lloydlobo/continuum),`TypeScript`,`36`,`None`,`Continuum is a grid puzzle game where players draw a continuous path connecting ...`
 * [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`1255`,`None`,`R3F Axe Throwing Mini Game Demo`
 * [`r3f-tshirt-configurator`](https://github.com/lloydlobo/r3f-tshirt-configurator),`TypeScript`,`1029`,`None`,`Clone of react-three-fiber demo`
-* [`lloydlobo.github.io`](https://github.com/lloydlobo/lloydlobo.github.io),`Astro`,`5364`,`None`,`Powered by Astro`
+* [`lloydlobo.github.io`](https://github.com/lloydlobo/lloydlobo.github.io),`Astro`,`5895`,`None`,`Powered by Astro`
 * [`countdown`](https://github.com/lloydlobo/countdown),`TypeScript`,`1470`,`None`,`assortment of countdown timers`
 * [`memegen`](https://github.com/lloydlobo/memegen),`TypeScript`,`1834`,`None`,`A quick meme generator `
 * [`r3f-webgpu-baked-example`](https://github.com/lloydlobo/r3f-webgpu-baked-example),`JavaScript`,`9209`,`MIT`,`Modified from https://github.com/wass08/r3f-webgpu-starter. See also https://www...`
 * [`BFInterpreter`](https://github.com/lloydlobo/BFInterpreter),`F#`,`739`,`None`,`A simple BF interpreter in F#`
 * [`ChordParser`](https://github.com/lloydlobo/ChordParser),`F#`,`30`,`None`,` Parses and transposes a chord chart. (adapted from @JordanMarr)`
 * [`blender-room-portfolio`](https://github.com/lloydlobo/blender-room-portfolio),`Python`,`29813`,`None`,`blender files for threejs compatible interactive 3d scene (work in progress ^_^)...`
-* [`dotfile-nvim`](https://github.com/lloydlobo/dotfile-nvim),`Lua`,`561`,`None`,`basic neovim config`
+* [`dotfile-nvim`](https://github.com/lloydlobo/dotfile-nvim),`Lua`,`562`,`None`,`basic neovim config`
 * [`depths`](https://github.com/lloydlobo/depths),`Go`,`129999`,`None`,`Ludum Dare 57 Theme: Depths`
 * [`railsnake`](https://github.com/lloydlobo/railsnake),`Go`,`63806`,`None`,`Snake meets Railways. An arcade game built with Raylib using Go bindings (game m...`
-* [`dev`](https://github.com/lloydlobo/dev),`Shell`,`124`,`None`,`Build system for starting up my OS (adapted from @ThePrimeagen)`
+* [`dev`](https://github.com/lloydlobo/dev),`Shell`,`127`,`None`,`Build system for starting up my OS (adapted from @ThePrimeagen)`
 * [`hexed`](https://github.com/lloydlobo/hexed),`HTML`,`721`,`None`,`Tiny hexdump tool for the web`
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`230508`,`MIT`,`Top-down arcade made for the 72 hours Ludum Dare 56's `Tiny creatures` theme gam...`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
@@ -29,7 +29,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`544`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`550`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
