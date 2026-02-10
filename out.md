@@ -3,7 +3,7 @@ __name,language,size,license,description__
 * [`continuum`](https://github.com/lloydlobo/continuum),`TypeScript`,`36`,`None`,`Continuum is a grid puzzle game where players draw a continuous path connecting ...`
 * [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`1255`,`None`,`R3F Axe Throwing Mini Game Demo`
 * [`r3f-tshirt-configurator`](https://github.com/lloydlobo/r3f-tshirt-configurator),`TypeScript`,`1029`,`None`,`Clone of react-three-fiber demo`
-* [`lloydlobo.github.io`](https://github.com/lloydlobo/lloydlobo.github.io),`Astro`,`6031`,`None`,`Powered by Astro`
+* [`lloydlobo.github.io`](https://github.com/lloydlobo/lloydlobo.github.io),`Astro`,`6033`,`None`,`Powered by Astro`
 * [`countdown`](https://github.com/lloydlobo/countdown),`TypeScript`,`1470`,`None`,`assortment of countdown timers`
 * [`memegen`](https://github.com/lloydlobo/memegen),`TypeScript`,`1834`,`None`,`A quick meme generator `
 * [`r3f-webgpu-baked-example`](https://github.com/lloydlobo/r3f-webgpu-baked-example),`JavaScript`,`9209`,`MIT`,`Modified from https://github.com/wass08/r3f-webgpu-starter. See also https://www...`
@@ -66,4 +66,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`47012`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`47014`,`None`,`Lloyd Lobo's GitHub profile.`
