@@ -10,7 +10,7 @@ __name,language,size,license,description__
 * [`lloydlobo.github.io`](https://github.com/lloydlobo/lloydlobo.github.io),`Astro`,`6033`,`None`,`Powered by Astro`
 * [`countdown`](https://github.com/lloydlobo/countdown),`TypeScript`,`1470`,`None`,`assortment of countdown timers`
 * [`memegen`](https://github.com/lloydlobo/memegen),`TypeScript`,`1834`,`None`,`A quick meme generator `
-* [`r3f-webgpu-baked-example`](https://github.com/lloydlobo/r3f-webgpu-baked-example),`JavaScript`,`9209`,`MIT`,`Modified from https://github.com/wass08/r3f-webgpu-starter. See also https://www...`
+* [`r3f-webgpu-baked-example`](https://github.com/lloydlobo/r3f-webgpu-baked-example),`JavaScript`,`9247`,`MIT`,`Modified from https://github.com/wass08/r3f-webgpu-starter. See also https://www...`
 * [`BFInterpreter`](https://github.com/lloydlobo/BFInterpreter),`F#`,`739`,`None`,`A simple BF interpreter in F#`
 * [`ChordParser`](https://github.com/lloydlobo/ChordParser),`F#`,`30`,`None`,` Parses and transposes a chord chart. (adapted from @JordanMarr)`
 * [`blender-room-portfolio`](https://github.com/lloydlobo/blender-room-portfolio),`Python`,`29813`,`None`,`blender files for threejs compatible interactive 3d scene (work in progress ^_^)...`
