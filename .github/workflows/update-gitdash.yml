@@ -8,6 +8,7 @@ on:
     branches: ["main"]
     # paths:
       # - "out.md"
+  # workflow_dispatch: # Allows you to run this manually for testing
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -20,20 +21,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4.1.1
-
-      - name: Cache Python dependencies
-        uses: actions/cache@v4.2.3
+        uses: actions/checkout@v4
         with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
+          fetch-depth: 0 # Good practice for rebasing/pushing
+
+      # - name: Cache Python dependencies
+      #   uses: actions/cache@v4
+      #   with:
+      #     path: ~/.cache/pip
+      #     key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-pip-
 
       - name: Setup Python
-        uses: actions/setup-python@v4.7.1
+        uses: actions/setup-python@v5
         with:
           python-version: 3.12  # Set the desired Python version (optional)
+          cache: 'pip' # Built-in caching is simpler than actions/cache
 
       - name: Install dependencies
         run: pip install -r requirements.txt # Ensure there is requirements.txt with necessary dependencies
@@ -71,7 +75,7 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "Github Actions"
           if ! git diff --exit-code; then
-              git pull
+              git pull --rebase origin main
               git add out.md README.md
               git commit -am "ci(actions): update latest gitdash $(date)"
               git push origin main
