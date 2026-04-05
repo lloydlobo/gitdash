@@ -8,7 +8,7 @@ on:
     branches: ["main"]
     # paths:
       # - "out.md"
-  # workflow_dispatch: # Allows you to run this manually for testing
+  workflow_dispatch: # Allows you to run this manually for testing
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0 # Good practice for rebasing/pushing
 
@@ -34,7 +34,7 @@ jobs:
       #       ${{ runner.os }}-pip-
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: 3.12  # Set the desired Python version (optional)
           cache: 'pip' # Built-in caching is simpler than actions/cache
@@ -55,7 +55,6 @@ jobs:
             
             Listing my personal public repositories for a high-level progression overview.
             
-            
         run: |    
           echo "$FRONT_MATTER" > README.md
           cat out.md >> README.md
@@ -73,10 +72,23 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --local user.email "actions@github.com"
-          git config --local user.name "Github Actions"
-          if ! git diff --exit-code; then
-              git pull --rebase origin main
+          git config --local user.name "github-actions[bot]"
+          
+          # Check if there are changes to avoid empty commit errors
+          if [[ -n "$(git status --porcelain)" ]]; then
               git add out.md README.md
-              git commit -am "ci(actions): update latest gitdash $(date)"
+              git commit -m "ci(actions): update latest gitdash $(date +'%Y-%m-%d %H:%M')"
+              git pull --rebase origin main
               git push origin main
+          else
+              echo "No changes detected, skipping commit."
           fi
+        # run: |
+        #   git config --local user.email "actions@github.com"
+        #   git config --local user.name "Github Actions"
+        #   if ! git diff --exit-code; then
+        #       git pull --rebase origin main
+        #       git add out.md README.md
+        #       git commit -am "ci(actions): update latest gitdash $(date)"
+        #       git push origin main
+        #   fi
