@@ -51,7 +51,7 @@ __name,language,size,license,description__
 * [`disk-space-optimizer`](https://github.com/lloydlobo/disk-space-optimizer),`Rust`,`61`,`MIT`,`A CLI tool for optimizing disk space`
 * [`youtube-thumbnail-hunter`](https://github.com/lloydlobo/youtube-thumbnail-hunter),`JavaScript`,`39`,`MIT`,`Chrome extension to replace YouTube video thumbnails with random images`
 * [`markdown-previewer`](https://github.com/lloydlobo/markdown-previewer),`TypeScript`,`226`,`MIT`,`An intuitive note-taking app to easily create, edit, and preview notes in Markdo...`
-* [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3178`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
+* [`dictionary-web-app`](https://github.com/lloydlobo/dictionary-web-app),`TypeScript`,`3224`,`None`,`Integrate the Dictionary API to create a real-world dictionary web app.`
 * [`markovtransition`](https://github.com/lloydlobo/markovtransition),`Rust`,`18473`,`None`,`markov chain for generative text`
 * [`penny`](https://github.com/lloydlobo/penny),`Python`,`78`,`None`,`A no-nonsense budget tracking Discord bot`
 * [`mandelbrot`](https://github.com/lloydlobo/mandelbrot),`Rust`,`189`,`None`,`The Mandelbrot set is a beautiful and fascinating mathematical object that has c...`
