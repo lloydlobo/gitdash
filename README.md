@@ -22,7 +22,7 @@ __name,language,size,license,description__
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`230508`,`MIT`,`Top-down arcade made for the 72 hours Ludum Dare 56's `Tiny creatures` theme gam...`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
 * [`fprintfasm`](https://github.com/lloydlobo/fprintfasm),`Assembly`,`12`,`MIT`,` Simple assembly kickstarter example for standard output `printf` via builtin `s...`
-* [`tiptoe`](https://github.com/lloydlobo/tiptoe),`Python`,`253191`,`None`,`Sneakily collect sleepy guardians in this 2D-platformer game.`
+* [`tiptoe`](https://github.com/lloydlobo/tiptoe),`Python`,`253192`,`None`,`Sneakily collect sleepy guardians in this 2D-platformer game.`
 * [`links`](https://github.com/lloydlobo/links),`None`,`4`,`None`,`None`
 * [`lang-asm`](https://github.com/lloydlobo/lang-asm),`Assembly`,`303`,`None`,`Scratchpad for x86-64 assembly`
 * [`go-learningtofly`](https://github.com/lloydlobo/go-learningtofly),`Go`,`1515`,`None`,`Simulating evolution in Go - a port of Learning to Fly series [STATUS: WEB UNIMP...`
@@ -70,4 +70,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46986`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46988`,`None`,`Lloyd Lobo's GitHub profile.`
