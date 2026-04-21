@@ -3,6 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
+* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`13`,`None`,`None`
 * [`the-daily-game`](https://github.com/lloydlobo/the-daily-game),`TypeScript`,`456`,`None`,`A mini game platform`
 * [`continuum`](https://github.com/lloydlobo/continuum),`TypeScript`,`69`,`None`,`Continuum is a grid puzzle game where players draw a continuous path connecting ...`
 * [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`1303`,`None`,`R3F Axe Throwing Mini Game Demo`
@@ -70,4 +71,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46990`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`46992`,`None`,`Lloyd Lobo's GitHub profile.`
