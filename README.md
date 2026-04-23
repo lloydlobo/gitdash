@@ -3,7 +3,7 @@
 Listing my personal public repositories for a high-level progression overview.
 
 __name,language,size,license,description__
-* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`13`,`None`,`None`
+* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`13`,`None`,`Game submission for ludum dare ldjam 59 signal theme. Link: https://mixedsignals...`
 * [`the-daily-game`](https://github.com/lloydlobo/the-daily-game),`TypeScript`,`456`,`None`,`A mini game platform`
 * [`continuum`](https://github.com/lloydlobo/continuum),`TypeScript`,`69`,`None`,`Continuum is a grid puzzle game where players draw a continuous path connecting ...`
 * [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`1303`,`None`,`R3F Axe Throwing Mini Game Demo`
@@ -58,7 +58,7 @@ __name,language,size,license,description__
 * [`mandelbrot`](https://github.com/lloydlobo/mandelbrot),`Rust`,`189`,`None`,`The Mandelbrot set is a beautiful and fascinating mathematical object that has c...`
 * [`mausam`](https://github.com/lloydlobo/mausam),`Rust`,`1704`,`Apache-2.0`,`A weather update desktop notifier made with Rust.`
 * [`rssh`](https://github.com/lloydlobo/rssh),`Rust`,`5289`,`None`,`rssh or Rust Shell allows keeping maintainable bash aliases from within Rust`
-* [`infinityper`](https://github.com/lloydlobo/infinityper),`Rust`,`70`,`None`,`Simulate typed text in a terminal`
+* [`infinityper`](https://github.com/lloydlobo/infinityper),`Rust`,`76`,`None`,`Simulate typed text in a terminal`
 * [`loremipsum`](https://github.com/lloydlobo/loremipsum),`Rust`,`11`,`None`,`None`
 * [`course-cs50`](https://github.com/lloydlobo/course-cs50),`C`,`10550`,`None`,`CS50 Course Harvard`
 * [`okejoke`](https://github.com/lloydlobo/okejoke),`Go`,`6159`,`MIT`,`okejoke gathers jokes on the fly in your CLI.`
