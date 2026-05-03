@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`8013`,`None`,`Game submission for ludum dare ldjam 59 signal theme.`
+* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`8057`,`None`,`Game submission for ludum dare ldjam 59 signal theme. (original 3 day jam: https...`
 * [`the-daily-game`](https://github.com/lloydlobo/the-daily-game),`TypeScript`,`456`,`None`,`A mini game platform`
 * [`continuum`](https://github.com/lloydlobo/continuum),`TypeScript`,`69`,`None`,`Continuum is a grid puzzle game where players draw a continuous path connecting ...`
 * [`r3f-axe-thrower`](https://github.com/lloydlobo/r3f-axe-thrower),`TypeScript`,`1303`,`None`,`R3F Axe Throwing Mini Game Demo`
