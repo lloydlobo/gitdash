@@ -15,7 +15,7 @@ __name,language,size,license,description__
 * [`dotfile-nvim`](https://github.com/lloydlobo/dotfile-nvim),`Lua`,`562`,`None`,`basic neovim config`
 * [`depths`](https://github.com/lloydlobo/depths),`Go`,`129999`,`None`,`Ludum Dare 57 Theme: Depths`
 * [`railsnake`](https://github.com/lloydlobo/railsnake),`Go`,`63806`,`None`,`Snake meets Railways. An arcade game built with Raylib using Go bindings (game m...`
-* [`dev`](https://github.com/lloydlobo/dev),`Shell`,`129`,`None`,`Build system for starting up my OS (adapted from @ThePrimeagen)`
+* [`dev`](https://github.com/lloydlobo/dev),`Shell`,`136`,`None`,`Build system for starting up my OS (adapted from @ThePrimeagen)`
 * [`hexed`](https://github.com/lloydlobo/hexed),`HTML`,`721`,`None`,`Tiny hexdump tool for the web`
 * [`tinycreatures`](https://github.com/lloydlobo/tinycreatures),`Lua`,`230508`,`MIT`,`Top-down arcade made for the 72 hours Ludum Dare 56's `Tiny creatures` theme gam...`
 * [`lox-interpreter`](https://github.com/lloydlobo/lox-interpreter),`Zig`,`269`,`None`,`Interpreter for the Lox programming language in Zig, that  "closely" follows the...`
