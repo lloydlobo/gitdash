@@ -1,5 +1,5 @@
 __name,language,size,license,description__
-* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`25376`,`None`,`Game submission for ludum dare ldjam 59 signal theme. (original 3 day jam: https...`
+* [`mixedsignals`](https://github.com/lloydlobo/mixedsignals),`JavaScript`,`25546`,`None`,`Game submission for ludum dare ldjam 59 signal theme. (original 3 day jam: https...`
 * [`secretbin`](https://github.com/lloydlobo/secretbin),`TypeScript`,`417`,`None`,`Share your code snippets securely and easily.`
 * [`the-daily-game`](https://github.com/lloydlobo/the-daily-game),`TypeScript`,`456`,`None`,`A mini game platform`
 * [`continuum`](https://github.com/lloydlobo/continuum),`TypeScript`,`69`,`None`,`Continuum is a grid puzzle game where players draw a continuous path connecting ...`
@@ -32,7 +32,7 @@ __name,language,size,license,description__
 * [`hash-table`](https://github.com/lloydlobo/hash-table),`Python`,`14`,`None`,`Custom hash table implementations`
 * [`SmartCV`](https://github.com/lloydlobo/SmartCV),`HTML`,`37`,`AGPL-3.0`,`Craft personalized resumes with SmartCV using CSS precision and on-the-fly YAML ...`
 * [`gameoflife`](https://github.com/lloydlobo/gameoflife),`C`,`9`,`None`,`Game of Life`
-* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`578`,`None`,`Personal public GitHub repository listing`
+* [`gitdash`](https://github.com/lloydlobo/gitdash),`Python`,`585`,`None`,`Personal public GitHub repository listing`
 * [`backtracc`](https://github.com/lloydlobo/backtracc),`Python`,`5`,`None`,`None`
 * [`sudoku_solver_c`](https://github.com/lloydlobo/sudoku_solver_c),`C`,`4`,`None`,`None`
 * [`tictactoe-c-sdl2`](https://github.com/lloydlobo/tictactoe-c-sdl2),`C`,`19`,`None`,`None`
