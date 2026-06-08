@@ -16,7 +16,7 @@ __name,language,size,license,description__
 * [`BFInterpreter`](https://github.com/lloydlobo/BFInterpreter),`F#`,`739`,`None`,`A simple BF interpreter in F#`
 * [`ChordParser`](https://github.com/lloydlobo/ChordParser),`F#`,`30`,`None`,` Parses and transposes a chord chart. (adapted from @JordanMarr)`
 * [`blender-room-portfolio`](https://github.com/lloydlobo/blender-room-portfolio),`Python`,`29813`,`None`,`blender files for threejs compatible interactive 3d scene (work in progress ^_^)...`
-* [`dotfile-nvim`](https://github.com/lloydlobo/dotfile-nvim),`Lua`,`562`,`None`,`basic neovim config`
+* [`dotfile-nvim`](https://github.com/lloydlobo/dotfile-nvim),`Lua`,`564`,`None`,`basic neovim config`
 * [`depths`](https://github.com/lloydlobo/depths),`Go`,`129999`,`None`,`Ludum Dare 57 Theme: Depths`
 * [`railsnake`](https://github.com/lloydlobo/railsnake),`Go`,`63806`,`None`,`Snake meets Railways. An arcade game built with Raylib using Go bindings (game m...`
 * [`dev`](https://github.com/lloydlobo/dev),`Shell`,`153`,`None`,`Build system for starting up my OS (adapted from @ThePrimeagen)`
@@ -72,4 +72,4 @@ __name,language,size,license,description__
 * [`fem-tip-calculator-app`](https://github.com/lloydlobo/fem-tip-calculator-app),`CSS`,`191`,`MIT`,`Your challenge is to build out this tip calculator app and get it looking as clo...`
 * [`odin-recipes`](https://github.com/lloydlobo/odin-recipes),`HTML`,`10068`,`MIT`,`Odin's Recipes is a community-driven food brand providing trusted resources to h...`
 * [`weather-app`](https://github.com/lloydlobo/weather-app),`CSS`,`8221`,`MIT`,`A functional stunning Weather App 🌥️   made using a simple yet powerful API. 👀  ...`
-* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`47067`,`None`,`Lloyd Lobo's GitHub profile.`
+* [`lloydlobo`](https://github.com/lloydlobo/lloydlobo),`None`,`47069`,`None`,`Lloyd Lobo's GitHub profile.`
